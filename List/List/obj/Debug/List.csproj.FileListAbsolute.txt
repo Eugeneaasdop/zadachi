@@ -1,0 +1,7 @@
+C:\Users\Студент\Desktop\List\List\bin\Debug\List.exe.config
+C:\Users\Студент\Desktop\List\List\bin\Debug\List.exe
+C:\Users\Студент\Desktop\List\List\bin\Debug\List.pdb
+C:\Users\Студент\Desktop\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\List\List\obj\Debug\List.exe
+C:\Users\Студент\Desktop\List\List\obj\Debug\List.pdb
